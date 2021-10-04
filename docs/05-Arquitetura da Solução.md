@@ -11,7 +11,8 @@ Exemplo:
 
 Os componentes que fazem parte da solução são apresentados na figura arquitetura de solução.
 
-![Diagrama de Componentes](img/imagem2.jpg)
+![Diagrama de Componentes]![usuariosistema](https://user-images.githubusercontent.com/80737152/135862175-e6511740-1c4e-445f-a36e-94c52cd1d124.png)
+
 
 A solução implementada conta com os seguintes módulos:
 - **Navegador** - Interface básica do sistema  
