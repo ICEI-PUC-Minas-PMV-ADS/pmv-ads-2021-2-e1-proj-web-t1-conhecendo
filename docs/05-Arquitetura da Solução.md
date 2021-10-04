@@ -60,6 +60,9 @@ para a Tela 2.
 
 As tecnologias utilizadas, para resolver o problema, ou seja implementar a solução, são descritas abaixo.
 
+![usuariosistema](https://user-images.githubusercontent.com/80737152/135863033-3a2769e5-b699-4527-bde6-3deb0a1a15bc.png)
+
+
 Implementação de solução:
 
     • Linguagens: Páginas web; html css Java script;
@@ -68,9 +71,6 @@ Implementação de solução:
     • IDEs de desenvolvimento: Visual Studio Code;
     • Ferramentas: Mapeamento do processo, organização de informações, busca de soluções, análise de dados.
     
-    ![usuariosistema](https://user-images.githubusercontent.com/80737152/135862834-8f3d360e-29e4-45fe-b742-6fbc099ffcd3.png)
-
-
 
 ## Hospedagem
 
