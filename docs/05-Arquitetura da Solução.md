@@ -58,9 +58,18 @@ para a Tela 2.
 
 ## Tecnologias Utilizadas
 
-Descreva aqui qual(is) tecnologias você vai usar para resolver o seu problema, ou seja, implementar a sua solução. Liste todas as tecnologias envolvidas, linguagens a serem utilizadas, serviços web, frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
+As tecnologias utilizadas, para resolver o problema, ou seja implementar a solução, são descritas abaixo.
 
-Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
+Implementação de solução:
+
+    • Linguagens: Páginas web; html css Java script;
+    • Frameworks: Board;
+    • Serviços web: HTPP;
+    • IDEs de desenvolvimento: Visual Studio Code;
+    • Ferramentas: Mapeamento do processo, organização de informações, busca de soluções, análise de dados.
+    
+    ![usuariosistema](https://user-images.githubusercontent.com/80737152/135862834-8f3d360e-29e4-45fe-b742-6fbc099ffcd3.png)
+
 
 
 ## Hospedagem
