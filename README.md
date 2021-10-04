@@ -1,23 +1,20 @@
 # TÍTULO DO PROJETO
 
-`CURSO`
+Analise e desenvolvimento de sistemas
 
-`DISCIPLINA`
+Projeto de uma Aplicação Web Fron-End
 
-`SEMESTRE`
+Primeiro Semestre
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Fabíola Lourdes 
 
 ## Orientador
 
-* Nome completo do professor 1
+* Joyce Christina De Paiva Carvalho
 
 ## Instruções de utilização
 
