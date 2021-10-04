@@ -7,85 +7,227 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
 
 ## Personas
+As personas levantadas durante o processo de entendimento são apresentadas abaixo
+              
+              Brenda Cristina
+              Idade:35 anos
+             
+            Ocupação: Dona de loja de doces 
+ Aplicativos 
+ 
+•	Instagram 
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+•	Spotify 
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+•	WhatsApp 
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+            Motivações 
+
+•   Passar o tempo junto a sua filha
+
+•  Seu trabalho e estudos 
+
+•	Aprender algo novo 
+
+  
+  	         Frustrações
+   
+•	Não conseguir dedicar mais tempo com sua filha 
+
+•	Perder muito tempo em redes sociais 
+
+•	A crise econômica e os constantes aumentos nos valores de alimentos, produtos e roupas
+
+•	Falta de perspectiva de melhora econômica 	
+         
+         Hobbies, História
+         
+•	Gosta de ir ao cinema com sua filha
+
+•	Gosta de passear com seu cachorro aos finais de semana
+
+•	Gosta de ler 
+
+•	Com a pandemia passou a se envolver nas políticas sociais 
+
+                 Julia Santos 
+                 Idade: 15
+                 
+                 Ocupação: estudante do ensino médio.	
+                 
+Aplicativos 
+•	WhastApp 
+
+•	Instagram
+
+•	TikTok 
+
+•  Spotify
+
+•	Netflix 
+
+                Motivações 
+                
+•	Conseguir ser aceita na nova turma
+
+•	concluir o ensino médio se dedicar em sua profissão de escolha 
+
+                 Frustrações 
+                 
+•	Não ter conseguir conversar abertamente com sua mãe
+ 
+• Não passar em seu curso pretendido
+
+              	Hobbies, História
+               
+•	Gosta de viajar 
+
+•	 adora espalhar conhecimento e debater assuntos variados
+
+•	Com a pandemia passou a confeccionar máscaras para doação
+
+•  Durante a pandemia estudou remotamente 
+
+•  Atualmente foi convocada a voltar as aulas presenciais 
+
+  	              Cecilia Lopes  
+                	Idade: 20
+                 
+                 Ocupação: Estudante de biomedicina , no momento é estudante em técnica de enfermagem 	
+                 
+ Aplicativos 
+ 
+•	WhatsApp 
+
+•  Instagram 
+
+•  Netflix 
+
+• Amazon Video 
+
+• GloboPlay 
+ 
+                      Motivações 
+                      
+•	 Se formar em biomedicina 
+
+• Conseguir ajudar mais financeiramente sua família  
+	Frustrações 
+ 
+•	Sofrer discriminação, ataques e intolerância por ser uma mulher 
+
+•  Não conseguir terminar a faculdade 
+
+•	Morar longe de sua família 
+
+•	A crescente onda de desemprego  
+
+  	                 Hobbies, História
+                    
+•   Gosta de escrever e planeja produzir um romance quando possível	
+
+•   Gosta de ir ao cinema e jantar com seus amigos 
+
+•	Engajada em assuntos sociais
+
+•	Com a pandemia ficou mais reclusa 
+
+•	Sonha um dia conseguir se formar 
+
+
+ 	   	        Pedro Barbosa 
+ 	          	Idade: 33 
+             
+           Ocupação: chefe de cozinha, trabalha em seu recém-inaugurado restaurante  	
+
+Aplicativos
+
+•	Instagram
+
+•	Facebook 
+
+•	WhatsApp 
+ 
+                  	Motivações 
+                   
+•	Manter seu restaurante aberto
+
+•	Constituir uma boa relação com sua filha
+
+•	 Criar sua filha diferente dos ensinos ultrapassados do seu pai
+
+•  Poder proporcionar emprego para seus quatro funcionários 
+                
+                 Frustrações 
+                 
+•	Ter baixo capital de giro para seurestaurante
+
+•	A crise econômica que afetou diretamente seu negócio 
+
+•	A falta de diálogo com sua filha 
+
+•	Falta de tempo para dedicar a sua filha já que e pai solo 	
+ 
+                  Hobbies, História 
+                  
+•	Gosta de cozinhar para sua família e amigos 
+
+•	Pinta quadros  
+
+•	Gosta de ir à praia 
+
+•  Aprender sobre o feminismo
+
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+partir da compreensão do dia a dia das personas identificadas para o projeto, foram registradas as seguintes histórias de usuários.
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|EU COMO...|   PERSONA	QUERO/PRECISO ...  |  FUNCIONALIDADE	PARA ... MOTIVO/VALOR|
+|----------|------------------------------|--------------------------------------|
+|Brenda Cristina	| Saber como instruir minha filha	| Visando um melhor relacionamento e interação|
+|Brenda Cristina	|Debater sobre o assunto de forma direta com outras pessoas |Ter mais instrução e aprendizado|
+|Brenda Cristina| Criar uma rede de ajuda |Que eu possa arrecadar kits de higiene básicos para doar.|
+|Julia Santos|	Não ter vergonha sobre meu corpo	|Ser feliz por si sem frustrações|
+|Julia Santos|Aprender mais sobre o próprio corpo||Tirar possíveis medos de situações futuras|
+|Cecilia Lopes	|Propor no hospital onde trabalha um projeto social|Para que as meninas da sociedade tenham um lugar para aprender.|
+|Cecilia Lopes |Se conectar com outras mulheres que querem ajudar no projeto|Conhecer e ajudas novas pessoas|
+|Pedro Barbosa	|Saber e esclarecer dúvidas sobre o assunto.|Aumentar minha a confiança de conversa|
+|Pedro Barbosa|Aprender mais sobre a menstruação| Conversar com sua filha|
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
 
 ## Requisitos
-
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
+Dentro do pressuposto da necessidade de criação da aplicação que buscam facilitar a vida do público-alvo os requisitos do projeto são:
 
 ### Requisitos Funcionais
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-01|	O site deve permitir a atualização e alteração dos posts por parte do usuário	|Alta|
+|RF-02|	O site deve permitir o gerenciamento dos cadastros de novos usuários	|Média|
+|RF-03|	O site deve oferecer uma funcionalidade para consultas e filtragens necessidade de busca.	|Média|
+|RF-04|	O site deve conectar seus usuários por meio dos assuntos de interesse	|Média|
+|RF-05|	O site terá que prover uma área exclusiva para ao usuário acompanhar suas informações 	|Alta|
+|RF-06|	O site deverá ter uma página com informações sobre a rede|	Baixa|
+|RF-07|	O site deverá dar assistência na rede de arrecadações conectando os usuários	|Alta|
 
 
 ### Requisitos não Funcionais
 
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|ID     | Descrição do Requisito                                                                                    |Prioridade |
+|-------|-------------------------                                                                                  |----|
+|RNF-01	|O site deve ser publicado em um ambiente acessível publicamente na Internet (Repl.it, GitHub Pages, Heroku).|Alta|
+|RNF-02|	O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge.|	Alta|
+|RNF-03|	O site deve ter um layout e interface autodidático e otimizado.                                             |	Alta|
 
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
 ## Restrições
 
 O projeto está restrito pelos itens apresentados na tabela a seguir.
 
-|ID| Restrição                                             |
-|--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
-
-
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+|ID    | Restrição                                                                                                 |
+|------|-----------------------------------------------------------------------------------------------------------|
+|RE-01	|O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar a data de 06/12/2021     |                                                             
+|RE-02 |O aplicativo deve se restringir às tecnologias básicas da Web no Front-end.                                |                                                             
+|RE-03 |	A equipe não pode subcontratar o desenvolvimento do trabalho.                                             |
