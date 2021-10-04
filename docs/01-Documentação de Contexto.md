@@ -1,46 +1,33 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Tabu é um conceito utilizado na filosofia e sociologia que tem relação com a proibição, censura, perigo e impureza gerando discursões polemicas discriminadas pela sociedade podendo estar relacionado a costumes, religião estilo de vida entre outros.
+
+Um dos grandes tabus é sobre a menstruação em um dia do ano cerca de 800 milhões de mulheres entre 15 e 49 anos vivenciam a menstruação segundo dados da Unilever, 1 a cada 4 adolescentes brasileiras não tem acesso a um pacote de absorvente, mais não apenas o fato de não ter acesso mas também o conhecimento sobre o assunto  campanhas de arrecadação e conscientização da importância a informação e ao acesso são pouco faladas mas existem um ótimo exemplo vencedor de Oscar e o curta metragem “Absorvendo o tabu”. A mulher foi rotulada como o corpo de esfera privada a dona do lar e isolada da sociedade isso levou ao silenciamento do corpo feminino uma grande ferramenta de solução a informação e a quebra de costumes passados é a internet e nela que se cria grandes e importantes discussões e dissolução de problemas.
+
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
+A falta de higiene básica para o período menstrual
 
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
-
+Busca de um modelo simples para relatar e aprender 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+O objetivo geral desse trabalho e criar uma rede de mídias de fácil uso e que integre campanhas de arrecadações para insumos de higiene básica e intima.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Como objetivos temos:
+
+Fornecer interação entre os usuários por meio das mídias 
+
+Colaborar e aprender sobre o assunto tema 
+
+Permitir a criação de usuários variados (de todos os gêneros)
+
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Cerca de 713 mil meninas vivem sem acesso a banheiro ou chuveiro em seu domicílio 4 milhões de meninas sofrem com pelo menos uma privação de higiene nas escolas incluindo a falta de absorventes dessas quase 200 mil alunas estão totalmente privadas de condições para cuidar da menstruação nas escolas.
+A menstruação e sinônimo de vergonha em inumeros paises p mede de falar e a forma como se aprende a conviver e a odiar o periodo menstrual.
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+O foco do trabalho está nas jovens e adolescentes que precisam de apoio e ensino relacionado a menstruação embora todas as pessoas possam se beneficiar das informações geradas na aplicação. No entanto se estabeleceu como publico alvo mulheres entre 13 e 49 anos que possam ou não ter acesso e uso constante a computadores e dispositivos moveis mais que necessitem e integrem assuntos relacionados ao trabalho. 
