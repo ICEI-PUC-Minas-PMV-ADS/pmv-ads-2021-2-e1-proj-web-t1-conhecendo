@@ -10,22 +10,17 @@ Diagrama que permite a modelagem física de um sistema, através da visão dos s
 Exemplo: 
 
 Os componentes que fazem parte da solução são apresentados na figura arquitetura de solução.
-![imagem2](https://user-images.githubusercontent.com/80737152/135862447-3217c95d-6a43-46e5-b733-24a5f9228fc2.jpg)
+![untitled (2)](https://user-images.githubusercontent.com/80737152/135866366-4a999f58-8bcc-40be-bf0d-525d1b6c51f1.png)
 
 
 A solução implementada conta com os seguintes módulos:
 - **Navegador** - Interface básica do sistema  
   - **Páginas Web** - Conjunto de arquivos HTML, CSS, JavaScript e imagens que implementam as funcionalidades do sistema.
    - **Local Storage** - armazenamento mantido no Navegador, onde são implementados bancos de dados baseados em JSON. São eles: 
-     - **Canais** - seções de notícias apresentadas 
-     - **Comentários** - registro de opiniões dos usuários sobre as notícias
-     - **Preferidas** - lista de notícias mantidas para leitura e acesso posterior
- - **News API** - plataforma que permite o acesso às notícias exibidas no site.
- - **Hospedagem** - local na Internet onde as páginas são mantidas e acessadas pelo navegador. 
-
-> **Links Úteis**:
->
-> - [Whimsical](https://whimsical.com/)
+     - **Dados de cadastro** - Informações fornecidas pelos usuarios
+     - **Pagina do usuario** - Registro de informações do usuario durante o uso
+     - **Seguindo** - Comunidade que o usuario se identifica 
+ - **Hospedagem** - Repositorio no github
 
 
 
