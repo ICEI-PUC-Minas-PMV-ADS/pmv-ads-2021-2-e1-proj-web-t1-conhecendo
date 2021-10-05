@@ -6,7 +6,9 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 Abaixo as principais interfaces do plataforma. Onde através das telas, tentamos oferecer a melhor visualização para o cliente, e maior entendimento das funcionalidades que disponibilizamos.
 
 ## User Flow
-![Exemplo de Wireframe](img/wireframe-example.png)
+![CONHECENDO](https://user-images.githubusercontent.com/80737152/136049742-707d232c-80eb-4106-aefd-2abb7057a3d7.png)
+
+
 
 ## Wireframes
 ![untitled (2)](https://user-images.githubusercontent.com/80737152/136038285-164321ae-a7bf-42e4-94eb-7f9daac6fc57.png)
