@@ -1,4 +1,4 @@
-# CONHECENDO
+# CONHECER
 
 Analise e desenvolvimento de sistemas
 
