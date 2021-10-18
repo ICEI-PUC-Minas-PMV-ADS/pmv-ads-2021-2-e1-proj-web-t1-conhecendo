@@ -15,5 +15,6 @@ Abaixo as principais interfaces do plataforma. Onde através das telas, tentamos
 ![CONHECER TELA 1](https://user-images.githubusercontent.com/80737152/137638856-cf83dc07-68d5-476a-958f-1cdf3465e1f6.png)
 ![TELA 2](https://user-images.githubusercontent.com/80737152/137638897-b3d73796-f723-4156-8585-069e8e78671e.png)
 ![TELA 3](https://user-images.githubusercontent.com/80737152/137638916-17087c62-4613-4a6a-bf34-1b9bac4ad70b.png)
+![TELA 5](https://user-images.githubusercontent.com/80737152/137641993-e2bd416b-d727-4c80-ad1b-d5a2cbd29c40.png)
 ![TELA 4](https://user-images.githubusercontent.com/80737152/137640319-07410b77-5950-4b99-8129-35c41c3a7a6c.png)
 
