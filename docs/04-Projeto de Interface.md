@@ -12,7 +12,7 @@ Abaixo as principais interfaces do plataforma. Onde através das telas, tentamos
 
 ## Wireframes
 
-![CONHECER TELA 1](https://user-images.githubusercontent.com/80737152/137638856-cf83dc07-68d5-476a-958f-1cdf3465e1f6.png)
+![Home page att](https://user-images.githubusercontent.com/80737152/139005312-d7714e5d-436d-47f6-b183-109dbeeaa7aa.png)
 ![TELA 2](https://user-images.githubusercontent.com/80737152/137638897-b3d73796-f723-4156-8585-069e8e78671e.png)
 ![TELA 3](https://user-images.githubusercontent.com/80737152/137638916-17087c62-4613-4a6a-bf34-1b9bac4ad70b.png)
 ![TELA 5](https://user-images.githubusercontent.com/80737152/137641993-e2bd416b-d727-4c80-ad1b-d5a2cbd29c40.png)
