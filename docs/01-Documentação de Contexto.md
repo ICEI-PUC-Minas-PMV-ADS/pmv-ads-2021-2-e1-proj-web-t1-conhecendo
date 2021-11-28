@@ -26,7 +26,7 @@ Permitir a criação de usuários variados (de todos os gêneros)
 ## Justificativa
 
 Cerca de 713 mil meninas vivem sem acesso a banheiro ou chuveiro em seu domicílio 4 milhões de meninas sofrem com pelo menos uma privação de higiene nas escolas incluindo a falta de absorventes dessas quase 200 mil alunas estão totalmente privadas de condições para cuidar da menstruação nas escolas.
-A menstruação e sinônimo de vergonha em inumeros paises p mede de falar e a forma como se aprende a conviver e a odiar o periodo menstrual.
+A menstruação e sinônimo de vergonha em inumeros paises medo de falar e a forma como se aprende a conviver e a odiar o periodo menstrual.
 
 ## Público-Alvo
 
