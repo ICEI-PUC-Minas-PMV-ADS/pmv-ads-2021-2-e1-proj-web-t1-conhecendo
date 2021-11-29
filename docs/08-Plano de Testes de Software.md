@@ -34,6 +34,13 @@
 |**Objetivo do Teste**|	Garantir que os resultados serão aplicados e finalizados| 
 |**Passos**|	1) Acessar o Navegador-2) Informar o Endereço do Site-3) Visualizar a página principal-4) Clicar em "Vídeos"-5) Clicar no vídeo escolhido-6) Clicar em play/pause|
 |**Critérios de Êxito**|	O Site deve reproduzir os vídeos solicitados pelo usuário.|
+#
+|Caso de Teste|	CT-06 –- Home page|
+|--|------------------------------|
+|**Requisitos Associados**|	RF-006 O site deve apresentar na página principal notícias estáticas inclusas pelo próprio administrador.|
+|**Objetivo do Teste**|	Verificar se as notícias estão sendo carregadas corretamente|
+|**Passos**|	1) Acessar o Navegador-2) Informar o Endereço do Site-3) Visualizar a página principal-4) Selecionar notícia-5) Verificar se o site apresenta para a publicação a imagem correspondente ao assunto|
+|**Critérios de Êxito**|	A página deve ser carregada, com as imagens visíveis e todos os links devem direcionar o usuário para as páginas correspondentes a sua seleção.|
 
 
 
