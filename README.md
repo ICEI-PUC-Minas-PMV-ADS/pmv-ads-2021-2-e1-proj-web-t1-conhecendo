@@ -10,7 +10,7 @@ Conhecendo é uma aplicação web que permite aos usuarios aprender sobre a mens
 
 ## Integrantes
 
-* Fabíola Lourdes 
+* Fabíola Lourdes dos Santos Cruz 
 
 ## Orientador
 
